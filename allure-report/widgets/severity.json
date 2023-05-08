@@ -1,0 +1,1 @@
+[{"uid":"ab0d90ed483aac36","name":"verify medical record system","time":{"start":1676177437537,"stop":1676177457375,"duration":19838},"status":"passed","severity":"normal"},{"uid":"883a3c2e99122db3","name":"Test Register a patient","time":{"start":1676177457495,"stop":1676177683062,"duration":225567},"status":"passed","severity":"normal"}]

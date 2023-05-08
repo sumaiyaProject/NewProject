@@ -1,0 +1,12 @@
+runner\Runner.class
+stepdifinations\MPR.class
+stepdifinations\openMRS.class
+stepdifinations\medical_Patient_Record.class
+pages\LoginPage.class
+stepdifinations\Hooks.class
+base\Base.class
+pages\Find_Patient_Record.class
+pages\Register_A_Patient.class
+pages\In_Patient_Word.class
+pages\LogoutPage.class
+dataConfiguration\dataConfig.class
